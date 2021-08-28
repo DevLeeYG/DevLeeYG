@@ -3,8 +3,5 @@
         src="http://img.shields.io/badge/-React-blue?style=flat&logo=React&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://instagram.com/alpox.dev">
-    <img 
-        src="http://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
