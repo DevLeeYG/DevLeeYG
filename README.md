@@ -5,6 +5,6 @@
 </a>
 <a href="https://instagram.com/alpox.dev">
     <img 
-        src="http://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&
+        src="http://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
